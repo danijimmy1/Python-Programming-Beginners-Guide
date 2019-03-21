@@ -1,0 +1,10 @@
+dir() ###
+
+To get details about specific directory pass that name as arguement.
+
+Example:
+dir(__builtin__)
+
+
+# help for a function
+help(pow)

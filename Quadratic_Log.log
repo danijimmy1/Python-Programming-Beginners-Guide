@@ -1,0 +1,19 @@
+INFO 2019-02-07 22:52:09,320 - quadratic_formula(1, 0, -4)
+DEBUG 2019-02-07 22:52:09,320 - # Compute the discriminant
+DEBUG 2019-02-07 22:52:09,320 - # Compute the two roots
+DEBUG 2019-02-07 22:52:09,321 - # Return the roots
+DEBUG 2019-02-07 22:54:14,231 - This is a harmless debug message.
+INFO 2019-02-07 22:54:14,231 - Just some useful info.
+WARNING 2019-02-07 22:54:14,232 - I'm sorry, but I can't do that, Jimmy.
+ERROR 2019-02-07 22:54:14,232 - Did you just try to divide by zero?
+CRITICAL 2019-02-07 22:54:14,232 - The entire internet is down!!
+INFO 2019-02-07 22:54:54,134 - quadratic_formula(1, 0, -4)
+DEBUG 2019-02-07 22:54:54,134 - # Compute the discriminant
+DEBUG 2019-02-07 22:54:54,134 - # Compute the two roots
+DEBUG 2019-02-07 22:54:54,134 - # Return the roots
+DEBUG 2019-02-07 23:38:16,394 - diff parser start
+DEBUG 2019-02-07 23:38:16,394 - diff parser calculated
+DEBUG 2019-02-07 23:38:16,394 - diff: line_lengths old: 2, new: 7
+DEBUG 2019-02-07 23:38:16,394 - diff code[replace] old[1:2] new[1:7]
+DEBUG 2019-02-07 23:38:16,395 - parse_part from 1 to 7 (to 6 in part parser)
+DEBUG 2019-02-07 23:38:16,395 - diff parser end

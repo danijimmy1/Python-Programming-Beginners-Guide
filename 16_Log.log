@@ -1,0 +1,5 @@
+DEBUG 2018-06-27 22:53:31,429 - This is a harmless debug message.
+INFO 2018-06-27 22:53:31,429 - Just some useful info.
+WARNING 2018-06-27 22:53:31,429 - I'm sorry, but I can't do that, Jimmy.
+ERROR 2018-06-27 22:53:31,429 - Did you just try to divide by zero?
+CRITICAL 2018-06-27 22:53:31,429 - The entire internet is down!!
